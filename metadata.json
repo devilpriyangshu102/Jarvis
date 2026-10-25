@@ -1,0 +1,6 @@
+{
+  "name": "Project JARVIS — Personal AI Assistant for Android",
+  "description": "Privacy-first personal AI assistant for Android smartphones inspired by JARVIS, featuring a non-intrusive floating overlay bubble, controlled 3-tier action execution, task management, communications intelligence, and full Android Studio export.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
